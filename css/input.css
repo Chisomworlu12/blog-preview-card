@@ -1,0 +1,33 @@
+@import "tailwindcss";
+
+@font-face {
+    font-family:'Figtree-italic';
+    src: url("../assets/fonts/Figtree-Italic-VariableFont_wght.ttf");
+    font-weight: 500, 800;
+    font-style: normal;
+}
+.font-figtree-italic1 {
+    font-family: 'figtree-italic';
+    font-weight: 500;
+}
+@font-face {
+    font-family: 'figtree-variable';
+    src: url("../assets/fonts/Figtree-VariableFont_wght.ttf");
+    font-weight: 500, 800 ;
+    font-style: normal;
+}
+.font-figtree-variable {
+    font-family: 'figtree-variable';
+    font-weight: 800;
+}
+.font-figtree-variable2 {
+    font-family: 'figtree-variable';
+    font-weight: 500;
+}
+.yellow{
+   background-color: var(--color-yellow)
+}
+
+@theme {
+    --color-yellow: hsl(47, 88%, 63%);
+}
