@@ -8,13 +8,12 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
-  - [Built with](#built-with)
   - [What I learned](#what-i-learned)
 - [Author](#author)
 
 
 ## Overview
-A log preview card built with **HTML5** and **Tailwind CSS**. This project was created as part of my frontend mentor challenge to improve layout structure and flex.I added add focus states for all interactive elements.
+A Blog preview card built with **HTML5** and **Tailwind CSS**. This project was created as part of my frontend mentor challenge to improve layout structure and flex.I added add focus states for all interactive elements.
 
 ### The challenge
 
@@ -32,8 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Live here](https://blog-preview-card-fawn-pi.vercel.app/)
 ### Built with
 
 - Semantic HTML5 markup
